@@ -1,0 +1,6 @@
+{
+  "name": "Agniveer GD Prep",
+  "description": "Comprehensive Indian Army Agniveer GD (Common Entrance Exam) preparation app featuring full timed mock tests, previous year papers, bilingual questions (Hindi & English), subject-wise practice, physical fitness standards, and performance analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
